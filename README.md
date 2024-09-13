@@ -38,3 +38,29 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# ------------------------------------------------------------------------------
+
+## Brief Steps
+- Download ZIP file dari repository projek ini
+- Buka folder projek dengan code editor (VSCode, sublime text, dll)
+- Buka terminal code editor
+- `npm i`
+- `npm run dev`
+- Setelah berhasil berjalan di localhost, masukkan
+    email : `miftahfarhan@gmail.com` dan
+    password: `qwerty123`
+
+## Screenshots (Preview)
+
+<p align="center">
+  <img width="600" alt="image" src="Screenshot_1.png"/>
+</p>
+
+<p align="center">
+  <img width="600" alt="image" src="Screenshot_2.png"/>
+</p>
+
+<p align="center">
+  <img width="600" alt="image" src="Screenshot_3.png"/>
+</p>
